@@ -8,8 +8,6 @@ Play the timeless game of Tic Tac Toe right on your Android device! This lightwe
 
 Features:
 
-🧠 Single-player mode (vs AI)
-
 👥 Two-player mode on the same device
 
 🎮 Simple and clean user interface using XML layouts
